@@ -1,3 +1,5 @@
+# Presentation how the game works
+![tic-tac-toe](https://github.com/Ikacper/Tic-Tac-Toe/blob/master/tic-tac-toe.gif)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
