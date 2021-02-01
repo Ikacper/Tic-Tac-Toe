@@ -1,0 +1,19 @@
+.circle {
+  fill: #ff9900;
+}
+
+.cross {
+  fill: #3299bb;
+}
+
+.refresh {
+  fill: #000000;
+}
+
+.refresh:hover {
+  opacity: 0.7;
+}
+
+.path1 {
+  fill: #2899c0;
+}

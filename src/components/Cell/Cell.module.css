@@ -1,0 +1,9 @@
+.cell {
+  width: 100px;
+  height: 100px;
+  padding: 0.3rem 0.3rem 0 0.3rem;
+}
+
+.cell:not(:nth-child(3)) {
+  border-right: 2px solid #999;
+}

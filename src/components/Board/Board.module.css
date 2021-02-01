@@ -1,0 +1,41 @@
+.board {
+  width: 300px;
+  display: block;
+  background-color: #424242;
+  margin: 3rem auto;
+}
+
+.row {
+  display: flex;
+  margin: 0;
+  min-width: 280px;
+  max-width: 320px;
+}
+
+.row:not(:first-child) {
+  border-top: 2px solid #999;
+}
+
+.refreshButton {
+  border: none;
+  width: 20px;
+  height: 40px;
+  background-color: #424242;
+  margin: 1rem auto;
+  display: block;
+  padding-right: 3rem;
+}
+
+.refreshButton:hover {
+  cursor: pointer;
+}
+
+.refreshButton:focus {
+  outline: none;
+}
+
+.winState {
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
